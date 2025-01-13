@@ -1,2 +1,2 @@
 # database
-membuat database dengan website
+membuat website dengan database
